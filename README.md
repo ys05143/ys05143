@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ys05143)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills 💻
@@ -32,3 +33,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=Amazon&logoColor=white"/></a>
+
+</div>
